@@ -27,8 +27,8 @@ dependencies {
     compileOnly "com.github.PartlySunnyDev:Configurate:1.0"
     compileOnly "com.github.PartlySunnyDev:Commandeer:1.0.1"
     compileOnly "com.github.PartlySunnyDev:Checkify:1.0"
-    implementation "com.github.PartlySunnyDev.SunnyCommons:Commons:1.0.1"
-    implementation "com.github.PartlySunnyDev.SunnyCommons:Paper:1.0.1"
+    implementation "com.github.PartlySunnyDev.SunnyCommons:Commons:1.0.2"
+    implementation "com.github.PartlySunnyDev.SunnyCommons:Paper:1.0.2"
 }
 
 def targetJavaVersion = 17
